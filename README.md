@@ -13,6 +13,8 @@ Install
 -------
 Starting with LiveSplit 1.4, you can download and install LiveSplit.ASAMU automatically from within the Splits Editor with just one click. Just type in "A Story About My Uncle" or "ASAMU" for the game (it should autocomplete the full game name) and click Activate. This downloads LiveSplit.ASAMU_Load_Remover to the Components folder.
 
+Put your starting time at 1:39.29
+
 Configure
 ---------
 Open your Splits Editor and activate the autosplitter. If this is not working, leave it deactivated and manually add it in the Layout Editor. You can configure the settings in whichever editor it has been enabled in.
